@@ -1,0 +1,25 @@
+.Answer{
+    /* background-color: rgb(216, 235, 255); */
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    vertical-align: middle;
+    align-items: center;
+    display: inline-block;
+}
+
+.AiIcon{
+    vertical-align: middle;
+    margin-left: -30px;
+    color: purple;
+    margin-top: 10px;
+
+}
+
+.text{
+    margin-top: -38px;
+}

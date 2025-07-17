@@ -1,0 +1,24 @@
+.outerConatiner{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    /* padding: 2rem; */
+    /* margin-left: 120px; */
+    background: linear-gradient(135deg, #6f4df7, #a96cf0);
+}
+
+.Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    /* background-color: aqua; */
+    
+}
+
+.Interactive-Scraper-AI{
+    color: rgb(255, 255, 255);
+}

@@ -1,0 +1,22 @@
+.outercontainer{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.intro{
+    width: 65%;
+}
+
+.intro h1 {
+    color: purple;
+}
+
+
+.Animie{
+    width: auto;
+    height: 300px;
+}
