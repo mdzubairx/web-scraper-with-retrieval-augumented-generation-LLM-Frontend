@@ -11,6 +11,8 @@ function gotoHome(){
     navigate("/");
 }
 
+
+
     return(
         
     <div className="outercontainer">

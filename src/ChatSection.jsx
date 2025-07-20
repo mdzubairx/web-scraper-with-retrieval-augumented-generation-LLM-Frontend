@@ -27,7 +27,7 @@ function ChatSection(){
     function getAnswer(){
         axios({
             method: 'post',
-            url: 'http://localhost:3000/chat',
+            url: 'https://web-scraper-with-retrieval-augumented.onrender.com/chat',
             headers: {
                 'Content-Type': 'application/json',
             },

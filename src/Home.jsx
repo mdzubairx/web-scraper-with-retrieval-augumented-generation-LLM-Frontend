@@ -22,7 +22,7 @@ function Home(){
   Setloading(true);
     await axios({
       method : 'post',
-      url : 'http://localhost:3000/ScrapAndChat',
+      url : 'https://web-scraper-with-retrieval-augumented.onrender.com/ScrapAndChat',
       headers : {
         'Content-Type': 'application/json',
       },
@@ -51,7 +51,7 @@ function Home(){
 
      await axios({
         method: 'post',
-        url: 'http://localhost:3000/summarize',
+        url: 'https://web-scraper-with-retrieval-augumented.onrender.com/summarize',
         headers: {
             'Content-Type': 'application/json',
         },
